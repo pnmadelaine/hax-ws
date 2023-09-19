@@ -27,4 +27,4 @@ dependencies = [
 [[package]]
 name = "hax-dep2"
 version = "0.1.0"
-source = "git+https://github.com/pnmadelaine/hax-dep2#3d5db68df103533eb2620bbbd6803f4ac677cad4"
+source = "git+https://github.com/pnmadelaine/hax-dep2#6c3f03c65bf01cf8af0e18aff2368f1fc8dae4dd"
