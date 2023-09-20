@@ -19,7 +19,7 @@ dependencies = [
 [[package]]
 name = "hax-dep1"
 version = "0.1.0"
-source = "git+https://github.com/pnmadelaine/hax-dep1#9fb0dc13d03123f106684401642f1cc0c3744930"
+source = "git+https://github.com/pnmadelaine/hax-dep1#6075ed3b9c87ae88bc4a6e5181f47bfe28165132"
 dependencies = [
  "hax-dep2",
 ]
@@ -27,4 +27,4 @@ dependencies = [
 [[package]]
 name = "hax-dep2"
 version = "0.1.0"
-source = "git+https://github.com/pnmadelaine/hax-dep2#6c3f03c65bf01cf8af0e18aff2368f1fc8dae4dd"
+source = "git+https://github.com/pnmadelaine/hax-dep2#02543b086b46de2a929ee566ee3485fa9c8b38a7"
